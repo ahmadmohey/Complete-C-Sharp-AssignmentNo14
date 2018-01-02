@@ -1,0 +1,9 @@
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\obj\Debug\AssignmentNo14.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\bin\Debug\AssignmentNo14.exe.config
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\bin\Debug\AssignmentNo14.exe
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\bin\Debug\AssignmentNo14.pdb
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\bin\Debug\System.ValueTuple.dll
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\bin\Debug\System.ValueTuple.xml
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\obj\Debug\AssignmentNo14.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\obj\Debug\AssignmentNo14.exe
+C:\Users\Ahmad\Desktop\Projects\AssignmentNo14\AssignmentNo14\obj\Debug\AssignmentNo14.pdb
